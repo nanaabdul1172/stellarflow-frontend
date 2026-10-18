@@ -51,3 +51,13 @@ export {
   HighPriceImpactModal,
   type HighPriceImpactModalProps,
 } from "./HighPriceImpactModal";
+
+export {
+  OrderBookDepthCanvas,
+  type OrderBookDepthCanvasProps,
+} from "./OrderBookDepthCanvas";
+
+export {
+  LiveOrderBookDepthCanvas,
+  type LiveOrderBookDepthCanvasProps,
+} from "./LiveOrderBookDepthCanvas";
